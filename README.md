@@ -6,8 +6,7 @@
 Here are some ideas to get you started: -->
 - 👩 I'm a 3rd year Computer Science student @ UBC
 - 🔭 Currently working on Onboarding Inquiries Chabot collaborating with a team of 9
-- ✒️ As a solo project, I'm working on chip-8 emulator using Rust and WebAssembly
-- 🌱 On my free time, I am learning Cybersecurity through TryHackMe.com
+- ✒️ On my free time, I'm learning Rust and following a tutorial on creating chip-8 emulator using Rust and WebAssembly
 - 📫 You can reach me @ krishaiquin@gmail.com
 - 😄 Pronouns: She/her
 - ⚡ Fun fact: I grew up in a country surrounded by oceans and yet I don't know how to swim. 🙅‍♀️🏊‍♀️
