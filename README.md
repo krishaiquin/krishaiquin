@@ -5,7 +5,8 @@
 
 Here are some ideas to get you started: -->
 - 👩 I'm a 3rd year Computer Science student @ UBC
-- 🔭 I’m currently working on Onboarding Inquiries Chabot collaborating with a team of 8
+- 🔭 Currently working on Onboarding Inquiries Chabot collaborating with a team of 9
+- ✒️ As a solo project, I'm working on chip-8 emulator using Rust and WebAssembly
 - 🌱 On my free time, I am learning Cybersecurity through TryHackMe.com
 - 📫 You can reach me @ krishaiquin@gmail.com
 - 😄 Pronouns: She/her
