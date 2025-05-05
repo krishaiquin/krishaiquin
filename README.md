@@ -4,11 +4,12 @@
 <!-- **krishaiquin/krishaiquin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started: -->
-- 👩 I'm a 3rd year Computer Science student @ UBC
-- 🔭 Recently developed an Employee Onboarding Chabot for Coast Capital Savings with a team of 9
-- ✒️ On my free time, I'm learning Operating Systems and Network Programming using C
-- ✨ Currently working on small projects relating to Operating Systems
-- 💬 Curious about Embedded Systems and Firmware Engineering
+- 👩 I'm a 4th year Computer Science student @ UBC
+- 💼 Previous internship @ Industrial Light and Magic as Production Engineering Intern in the Platform Team 
+- ✒️ Currently working on:
+      - Distributed Chat Service with RPC
+      - Novice Version of MiMU Gloves (https://tinyurl.com/48zp8tmr)
+- 💬 Curious about Embedded Systems and Distributed Systems
 - 📫 You can reach me @ krishaiquin@gmail.com
 - 😄 Pronouns: She/her
 - ⚡ Fun fact: I grew up in a country surrounded by oceans and yet I don't know how to swim. 🙅‍♀️🏊‍♀️
