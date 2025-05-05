@@ -5,7 +5,8 @@
 
 Here are some ideas to get you started: -->
 * 👩 I'm a 4th year Computer Science student @ UBC
-* 💼 Previous internship @ Industrial Light and Magic as Production Engineering Intern in the Platform Team 
+* 👔 Former intern @ Industrial Light and Magic as Production Engineering Intern in the Platform Team
+* 💼 Embedded Software Engineer @ UBC Bionics
 * ✒️ Currently working on:
     * Distributed Chat Service with RPC
     * Novice Version of MiMU Gloves (https://tinyurl.com/48zp8tmr)
