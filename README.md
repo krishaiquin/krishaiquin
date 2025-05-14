@@ -9,6 +9,7 @@ Here are some ideas to get you started: -->
 * 💼 Embedded Software Engineer @ UBC Bionics
 * ✒️ Currently working on:
     * Distributed Chat Service with RPC
+    * Gossip Glomers Challenges (https://fly.io/dist-sys/)
     <!-- * Novice Version of MiMU Gloves (https://tinyurl.com/48zp8tmr) -->
 * 💬 Curious about Embedded Systems and Distributed Systems
 * 📫 You can reach me @ krishaiquin@gmail.com
