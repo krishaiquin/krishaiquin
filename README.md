@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started: -->
 * 👩 I'm a 4th year Computer Science student @ UBC
-* 👔 Former intern @ Industrial Light and Magic as Production Engineering Intern in the Platform Team
+* 👔 Former Production Engineering Intern (Platform Team) @ Industrial Light and Magic 
 * 💼 Embedded Software Engineer @ UBC Bionics
 * ✒️ Currently working on:
     * Distributed Chat Service with RPC
